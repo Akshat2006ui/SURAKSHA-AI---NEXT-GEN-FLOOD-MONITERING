@@ -51,38 +51,6 @@ Processed Data & Predictions
         ↓
 Interactive React UI
 
-📁 Project Structure
-SURAKSHA AI/
-│
-├── client/                 # React Frontend
-│   ├── public/
-│   └── src/
-│       ├── components/     # Reusable UI components
-│       ├── pages/          # Dashboard, Simulation, Analytics, About
-│       └── App.js
-│
-├── server/                 # Node.js Backend
-│   └── index.js
-│
-├── src/                    # Python ML Engine
-│   ├── train_models.py
-│   ├── simulation.py
-│   ├── data_processing.py
-│   └── risk_engine.py
-│
-├── data/                   # Datasets
-├── models/                 # Trained ML models
-├── visualization/          # Plotly maps & voice agent
-│
-├── run_suraksha.py
-├── demo_quick_start.py
-├── train_complete.py
-│
-├── README.md
-├── PROJECT_SUMMARY.md
-├── requirements.txt
-├── package.json
-└── .env.example
 
 🖥️ Application Pages
 📊 Dashboard (/)
@@ -333,12 +301,12 @@ Inline code comments for clarity
 
 🟢 FULLY OPERATIONAL
 🟢 Demo-ready
-🟢 Hackathon & resume ready
 
 Run the app, explore the dashboards, trigger simulations, and present with confidence 🚀
 
 👨‍💻 Author
 
-Akshat Kapoor
-B.Tech CSE (Data Science)
-AI • Full-Stack • ML Systems
+## Akshat Kapoor
+## B.Tech CSE (Data Science)
+## AI • Full-Stack • ML Systems
+## AI ENGINEER
